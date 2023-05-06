@@ -2,7 +2,7 @@
 
 This data science project aims to help an e-commerce company decide whether to focus its efforts on mobile apps or its website. The company offers style and clothing consulting sessions in-store, and customers can order the clothes they want through the website or mobile app after the sessions.
 
-<a href='https://github.com/JeffersonLobato/E-commerce-Data-Analysis/blob/main/E-commerce_Data_Analysis.ipynb'><h3>Click here to Project</h3></a>
+<h3><a href='https://github.com/JeffersonLobato/E-commerce-Data-Analysis/blob/main/E-commerce_Data_Analysis.ipynb'>Click here to Project</a></h3>
 
 ## Objectives
 The objective of this project is to analyze customer data and determine whether the company should focus its efforts on mobile apps or its website. To achieve this goal, we will follow the steps below:
